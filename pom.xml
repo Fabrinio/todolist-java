@@ -16,6 +16,8 @@
 	<description>Gerenciador de tarefas</description>
 	<properties>
 		<java.version>18</java.version>
+		<maven.compiler.source>18</maven.compiler.source>
+		<maven.compiler.target>18</maven.compiler.target>
 	</properties>
 	<dependencies>
 
